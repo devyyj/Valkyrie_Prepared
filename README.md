@@ -465,7 +465,7 @@ ORM (Object-Relational Mapping)은 객체 지향 프로그래밍 언어와 관�
 - 캐시 기능: ORM은 영속성 컨텍스트(Persistence Context)를 이용하여 캐시 기능을 제공합니다. 이를 통해 반복적으로 데이터베이스에 접근하지 않아도 되므로 애플리케이션의 성능을 향상시킬 수
   있습니다.
 
-# 스프링에서 트랜잭션 처리 방법에 대해 설명해주세요.
+# 스프링에서 트랜잭션 처리 방법에 대해 설명해주세요
 
 트랜잭션(Transaction)은 데이터베이스에서 데이터를 변경하는 작업을 하나의 논리적인 작업 단위로 묶어서 처리하는 것을 말합니다. 트랜잭션은 ACID (Atomicity, Consistency,
 Isolation, Durability) 원칙을 따릅니다.
