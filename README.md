@@ -19,4 +19,4 @@
 
 ## 프레임워크
 
-* [스프링 프레임워크 면접 질문](https://github.com/devyyj/Backend-Interview-Questions/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8.md)
+* [스프링 프레임워크 면접 질문](https://github.com/devyyj/Backend-Interview-Questions/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8.md)
