@@ -1,6 +1,6 @@
 # 백엔드 개발자 면접 질문
 
-[매우 개인적으로 선정한 종합 핵심 질문 30개]()
+[매우 개인적으로 선정한 종합 핵심 질문 30개](https://github.com/devyyj/Backend-Interview-Questions/blob/main/%EC%A2%85%ED%95%A9%ED%95%B5%EC%8B%AC%EC%A7%88%EB%AC%B8.md)
 
 ## 기초
 
