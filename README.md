@@ -5,6 +5,7 @@
 ## 기초
 
 * [컴퓨터 사이언스 면접 질문](https://github.com/devyyj/Backend-Interview-Questions/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8.md)
+* [프로그래밍 기초 질문]()
 
 ## 공통
 
