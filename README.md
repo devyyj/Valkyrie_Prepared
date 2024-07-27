@@ -2,7 +2,7 @@
 
 ![발키리](https://i.namu.wiki/i/d1Nr6exyNycuSwWY-kksbszyNmkA-PtY9ZkuFrP7RaNW0U5FsgQqxWtGxfCkiwqVu2ngrHXLhqdCzgUvlM7nDA.gif)
 
-> [발키리](https://namu.wiki/w/%EB%B0%9C%ED%82%A4%EB%A6%AC(%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%EC%8B%9C%EB%A6%AC%EC%A6%88)), 준비 완료! - 백엔드 개발자 면접 준비
+> [발키리](https://namu.wiki/w/%EB%B0%9C%ED%82%A4%EB%A6%AC(%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%EC%8B%9C%EB%A6%AC%EC%A6%88)), 준비 완료! - 웹 개발자 면접 준비
 
 ## 이력서
 
